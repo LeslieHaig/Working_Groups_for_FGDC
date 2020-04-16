@@ -7,13 +7,13 @@
 **Link to Timeline**  
   
 
-Wednesday, May 20, 2020, 2-3:30pm MT  
+**Wednesday, May 20, 2020, 2-3:30pm MT**  
 Present: Kerry Shakarjian (NPS),  
 Absent:
 document to house ideas on what our page would look like on GeoPlatform  
 
 
-Wednesday, April 15, 2020, 2-3:30pm MT  
+**Wednesday, April 15, 2020, 2-3:30pm MT**  
 Present: Kerry Shakarjian (NPS), Elizabeth McCartney (USGS), Leslie (DOT), Dennis (FAA), Candace (FS), Jennifer (FAA), Angie(NPS), Robert(FS), Victoria(FS), Brian Diethorn(NPS)  
 Absent: Taylor  
 3/23 - One Pager - Trust for Public Lands requested to review the standard schema in order to know if they can be used as an example in our one pager. Provided draft schema on this day.  
@@ -41,7 +41,7 @@ Brenda Yankoviak to get up to speed and discuss NTS Council/Roundtable
 John Canella/Peter Bonsall regarding NTS Council/Roundtable presentations  
 
 
-Wednesday, March 18, 2020, 2-3:30pm MT  
+**Wednesday, March 18, 2020, 2-3:30pm MT**  
 Meeting Cancelled  
 2/25 Attended the FGDC Geospatial Transportation Subcommittee meeting to give an update on the Federal Trail Data Standard Working Group  
 Dennis/Jennifer are vice chairs for the group, now attending our meetings  
@@ -65,7 +65,7 @@ formatting changes when uploaded to Box, ignore the formatting, just looking for
 waiting for PNTS/Trust for Public Lands approval of example paragraph in red text.   
 
 
-Wednesday, February 15, 2020, 2-3:30pm MT  
+**Wednesday, February 15, 2020, 2-3:30pm MT**   
 Present: Kerry Shakarjian (NPS), Elizabeth McCartney (USGS), Leslie (DOT), Dennis Nicholas (FAA), Jennifer Jackson (FAA), Victoria Smith-Campbell (FS Region 2 GIS Coordinator), Brian Diethorn(NPS), Angie Southwould (NPS)  
 Absent: Robert, Taylor  
 Candace will not be attending meetings so she can focus on other priorities. We will keep her in the loop as we move forward.    
@@ -103,7 +103,7 @@ Trails Council meeting in Missoula this year in the summer sometime, date tbd
 Any new FS updates/meetings?? - No  
 
 
-Wednesday, January 15, 2020, 2-3:30pm MT  
+**Wednesday, January 15, 2020, 2-3:30pm MT**  
 Present: Kerry Shakarjian, Robert, Leslie, Victoria, Taylor, Brian  
 Absent: Angie, Candace  
 
@@ -149,7 +149,7 @@ See brainstorming for future of this standard at bottom of the Purpose document
 Timeline  
 
 
-Wednesday, December 18, 2019, 2-3:30pm MT  
+**Wednesday, December 18, 2019, 2-3:30pm MT ** 
 Present: Kerry Shakarjian (NPS), Elizabeth (USGS), Angie (NPS), Taylor(USFS), Candace(USFS), Leslie Haig(DOT), Robert (USFS)    
 Absent: Derald  
 
@@ -164,7 +164,7 @@ FGDC contacts progress??
 Ryan's status - will not be attending meetings until approximately April 2020 or later    
 
 
-Wednesday, November 20, 2019, 2-3:30pm MT   
+**Wednesday, November 20, 2019, 2-3:30pm MT**   
 Present: Kerry Shakarjian (NPS AK GIS), Angie(NPS AK GIS), Robert (USFS R2 GIS), Victoria (USFS R2 GIS)   
 Absent: Elizabeth (USGS), Taylor (USFS R2 GIS), Brian Diethorn (NPS GIS), Candace (USFS R3 GIS)   
 
@@ -187,7 +187,7 @@ where to house the actual aggregated database - USGS?
 Group consensus is to continue moving forward with standard - larger data review will occur with FGDC process  
 
 
-Wednesday, October 16, 2019, 2-3:30pm MT  
+**Wednesday, October 16, 2019, 2-3:30pm MT**  
 Present: Kerry Shakarjian (IMR NPS GIS), USFS-R2 (Victoria, Taylor, Robert), Elizabeth (USGS), Ryan (NPS NHT)  
 Absent: Candace Bogart, Angie, Derald  
 
@@ -207,19 +207,19 @@ Rules for editing: feel free to complete small changes or add additional paragra
 Kerry - send out email with bullet list of items needed for review, include Review Comment Spreadsheet - DONE  
 
 
-Wednesday, September 25, 2019, 2-3:30pm MT  
+**Wednesday, September 25, 2019, 2-3:30pm MT**  
 Present: Kerry Shakarjian (IMR NPS GIS), Angie Southwould (AKR NPS GIS)  
 Absent: R2 FS (Victoria, Robert, Taylor); Elizabeth McCartney, Candace Bogart, Derald Dudley  
-***Added all official FTDS docs to Reference folder - please glance over these to get an idea of how/why this standard was created and other useful information  
-****Group check-in - how make the meeting more beneficial/useful for the group? – meeting reminders with link to agenda/meeting minutes enough?, date/time still work for everyone?  
+***Added all official FTDS docs to Reference folder - please glance over these to get an idea of how/why this standard was created and other useful information****  
+****Group check-in - how make the meeting more beneficial/useful for the group? – meeting reminders with link to agenda/meeting minutes enough?, date/time still work for everyone?****  
 Meeting note takers  
 Created a very draft timeline - follows NPS Standards Development Process  
 Add deadlines as we go  
-***Candace have briefing paper draft? Yes, will continue to work on it - deadline 11/1/19?  
+***Candace have briefing paper draft? Yes, will continue to work on it - deadline 11/1/19?***  
 Updated database - provided to group 9/20/19. Deadline for review 11/1/19??  
 Extended Core feature class has two fields at the very end that will be moved from end to be with other attributes  
 Updating domains to have correct case for example: "Of" should be "of"   
-****Only thing missing is potential NHT point feature class - Kerry creating, needs to finalize and upload  
+****Only thing missing is potential NHT point feature class - Kerry creating, needs to finalize and upload****  
 Planning to include a point feature class with the Core fields and point related feature attributes from FTDS such as TYPE OF SITE, NHT HIGH POTENTIAL SITE, NHT PUBLIC USE SITE, NHT SITE NAME, NHT SITE NUMBER, NRHP CRITERIA(pt & line), NRHP PROPERTY CATEGORY (all fields listed in xcel doc)  
 Feedback from NHT office in Santa Fe (Brian)= Yes, a point field would be helpful  
 Ryan - Yes, agrees - will be at 10/16 meeting to answer questions on this  
@@ -233,13 +233,13 @@ Updated metadata - draft - needs review (deadline 11/1/19)
 The FTDS has some fields that are 'Mandatory if Applicable' and allow a user to leave a field blank. In good database practice, I think leaving fields blank is worse than putting in NA or UNK etc. Its hard to know if it was just missed on accident if left blank.  
 Made 'Trail Class' mandatory and updated domain to include NA and Unknown to avoid null values  
 Made Prohibited Use mandatory and updated list of values to include NA and Unknown to avoid null values  
-****DOM_SHAREDSYSTEM_FTDS2019- suppose to be a multiple choice field. Remove domain. OR Add Trail Type (we removed earlier in decision process) with same domain as main type of system and this field stays a domain as the secondary type of system that overlaps the main system trail type?? Maybe this was the original purpose  
+****DOM_SHAREDSYSTEM_FTDS2019- suppose to be a multiple choice field. Remove domain. OR Add Trail Type (we removed earlier in decision process) with same domain as main type of system and this field stays a domain as the secondary type of system that overlaps the main system trail type?? Maybe this was the original purpose****  
 USGS is keeping Trail Type  
 Going back to Purpose of FTDS:   
-****Trail Status Discussion: Planned and decommissioned could be removed and then we wouldn’t have to think about including PUBLICDISPLAY/DATAACCESS fields.   
+****Trail Status Discussion: Planned and decommissioned could be removed and then we wouldn’t have to think about including PUBLICDISPLAY/DATAACCESS fields.****   
 Do we want this dataset to strictly be for the public? I think this goes against the original design of the FTDS but worth a discussion for change. I feel that the trail managers themselves will house the internal data such as what is proposed/planned/decommissioned and therefore we could remove trail status all together because everything is existing.  
 From USGS: Trail Status -Core field 7.1.Agreed solution: Dropped TrailStatus7.2.Discuss with FGDC Trails group and recommend Trail Status be moved into Extended Core7.3.Discussion: If we are filtering out 'decommissioned', we should also be filtering out 'planned'. A planned trail could stay in that state for a long time or could change. We generally just show what exists on the landscape. If we are not using planned or decommissioned, the only domain values that are left are 'existing' and 'unknown'. In that case I suggest we filter out planned and decommissioned and do not include the Trail Status attribute in our database.  
-***FS Contacts to FGDC - Candace will contact (FTDS and FGDC Contacts document)  
+***FS Contacts to FGDC - Candace will contact (FTDS and FGDC Contacts document)***  
 Derald have an FGDC update for process of approval and contacts?  
 Kerry working on draft Standard Implementation Document to accompany database.  
 Will have available for edits soon  
@@ -249,10 +249,10 @@ Edit in online version using MS Word - seems like this would work the best? - YE
 Don't use downloaded version to edit?? - Correct  
 Document deadline including review - 12/1/19??  
 ****Coordinate System? Currently NAD_1983_Transverse_Mercator - should it be NAD83 2011? USGS?  
-USGS Questions document - has ideas/concerns regarding attributes etc.  
+USGS Questions document - has ideas/concerns regarding attributes etc.****  
 
 
-Wednesday, August 21, 2019, 2-3:30pm MT  
+**Wednesday, August 21, 2019, 2-3:30pm MT **   
 Present: Kerry Shakarjian (IMR NPS GIS), Robert Thomas, Angie Southwould, Candace Bogart  
 Absent: Ryan Cooper, Derald Dudley, Talyor Willow, Elizabeth McCartney  
 Move next meeting date from 9/18 to 9/11 or 9/25 due to conflict  
@@ -297,7 +297,7 @@ FS Contacts to FGDC -Candace will contact (FTDS and FGDC Contacts document)
 Derald have an FGDC update for process of approval and contacts?  
 
 
-Wednesday, July 10, 2019, 2-3:30pm MT  
+**Wednesday, July 10, 2019, 2-3:30pm MT**  
 Present: Kerry Shakarjian (IMR NPS GIS), Elizabeth McCartney (USGS National Map), Victoria Smith-Campbell (FS R2 GIS Coordinator), Derald Dudley (DOT, FGDC)   
 Kerry - still working on draft database, almost there - post to Box before August meeting  
 Candace -  briefing paper status? need help/review?  
@@ -328,7 +328,7 @@ Domain naming convention
 Feature level metadata fields (NPS Core Fields spreadsheet tab)  
 
 
-Wednesday, June 19, 2019, 2-3:30pm MT  
+**Wednesday, June 19, 2019, 2-3:30pm MT**  
 Present: Kerry Shakarjian (IMR NPS GIS), Angie Southwould (AK NPS GIS), Elizabeth McCartney (USGS National Map), Taylor Willow (FS Region 2 GIS CDT), Candace Bogart (FS Region 3 GIS/AZNST), Dennis Garcia (FS Region 3 GIS)  
 FTDS group  
 Problem - multiple versions being created and not able to efficiently merge them together into a single dataset.  
@@ -353,7 +353,7 @@ Move meeting to July 10th same time.
 Kerry add Elizabeth to Box folder and calendar invite for future meetings - DONE  
 
 
-Wednesday, May 15, 2019, 2-3:30pm MT  
+**Wednesday, May 15, 2019, 2-3:30pm MT**  
 Present: Kerry Shakarjian (NPS GIS), Ryan Cooper (NPS, Lewis & Clark NHT), Taylor Willow (FS Region 2 GIS CDT), Candace Bogart (FS Region 3 GIS/AZNST),  Robert Thomas (FS R2 CDT-Mobile Program).  
 Absent: Victoria, Ray, and Angie.  
 Define the purpose of the FTDS geodatabase - document titled Purpose of GIS FTDS Schema  
@@ -381,7 +381,7 @@ Renaming of attribute fields??
 This would need to be updated in the FTDS document itself as well (Jaime)  
 
 
-Wednesday, April 17, 2019, 2-3:30pm MT  
+**Wednesday, April 17, 2019, 2-3:30pm MT**  
 Present: Kerry Shakarjian (NPS GIS), Candace Bogart (Region 3 GIS/AZNST), Robert Thomas (FS R2 CDT-Mobile Program)  
 Absent: Angie, Ryan, Victoria, and Ray  
 GoTo Meeting will not be available to use in the near future for screen sharing - will switch invitation to an instant Webex account. Phone number will remain the same.  
@@ -405,10 +405,10 @@ Renaming of attribute fields??
 This would need to be updated in the FTDS document itself as well (Jaime)  
 
 
-Wednesday, March 20, 2019, 2-3:30pm MT - CANCELLED  
+**Wednesday, March 20, 2019, 2-3:30pm MT - CANCELLED**  
 
 
-Wednesday, February 20, 2019, 2-3:30pm MT  
+**Wednesday, February 20, 2019, 2-3:30pm MT**  
 Present: Kerry Shakarjian (FS/NPS CDT GIS), Angie Southwould (AK NPS GIS), Victoria Smith-Campbell (FS R2 GIS Coordinator)  
 
 
@@ -433,7 +433,7 @@ Added to tab in working spreadsheet called Suggested Additional Fields
 Core Standard feature level metadata  
 
 
-Wednesday, October 17, 2018, 10-11:30am MT  
+**Wednesday, October 17, 2018, 10-11:30am MT**  
 Present: Kerry Shakarjian (FS/NPS CDT GIS), Angie Southwould (AK NPS GIS), Victoria Smith-Campbell (FS R2 GIS Coordinator), Candace Bogart (Region 3 GIS/AZNST), Robert Thomas (FS R2 CDT-Mobile Program), Ryan Cooper (NPS, Lewis & Clark NHT)  
 
 
@@ -453,7 +453,7 @@ Kerry will make regular monthly meeting time on calendar invite. Sent email Oct 
 Future meeting: look over the data types and lengths in the standard and what Candace has, make suggestions.  
 
 
-Tuesday, Sept 25, 2018, 1pm-2:30pm MT  
+**Tuesday, Sept 25, 2018, 1pm-2:30pm MT**  
 Present:   
 Kerry Shakarjian (FS/NPS CDT GIS),   
 Angie Southwould (AK NPS GIS),  
@@ -463,7 +463,7 @@ Continue going through attributes
 Finished going through full list  
 
 
-Friday, August 24, 2018, 12-1pm MT  
+**Friday, August 24, 2018, 12-1pm MT**  
 Present:   
 Kerry Shakarjian (FS/NPS CDT GIS),   
 Angie Southwould (AK NPS GIS),   
