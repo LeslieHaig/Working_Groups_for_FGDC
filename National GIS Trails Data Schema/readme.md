@@ -490,7 +490,10 @@ Attributes review
 Consider what should be the Core attributes (both historic and scenic)   
 What to do with non-core attributes? Scenic version and Historic version   
 Continue going through attributes     
- 
+
 Previous Meeting NOTES:  
-FTDS  - Mixing three types of trails, three GIS standards (Historic/Scenic/Local Trails)??Local trail version check box for NHT vs NST  
-Need Lookup table for the names of the National Trails (Historic version/Scenic version)   
+FTDS  - Mixing three types of trails, three GIS standards (Historic/Scenic/Local Trails)??   
+Local trail version check box for NHT vs NST  
+Need Lookup table for the names of the National Trails (Historic version/Scenic version)  
+
+
