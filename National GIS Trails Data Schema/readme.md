@@ -252,7 +252,7 @@ Document deadline including review - 12/1/19??
 USGS Questions document - has ideas/concerns regarding attributes etc.****  
 
 
-**Wednesday, August 21, 2019, 2-3:30pm MT **   
+**Wednesday, August 21, 2019, 2-3:30pm MT**    
 Present: Kerry Shakarjian (IMR NPS GIS), Robert Thomas, Angie Southwould, Candace Bogart  
 Absent: Ryan Cooper, Derald Dudley, Talyor Willow, Elizabeth McCartney  
 Move next meeting date from 9/18 to 9/11 or 9/25 due to conflict  
@@ -486,11 +486,11 @@ Use the full FTDS for CDT?
 Core attributes only – to be determined as we move through attributes   
 Arizona Trail FTDS (Region 3 FS)    
 FTDS GIS schema template created (in Box folder)   
-Attributes review   
+Attributes review    
 Consider what should be the Core attributes (both historic and scenic)   
 What to do with non-core attributes? Scenic version and Historic version   
 Continue going through attributes     
  
-Previous Meeting NOTES:
-FTDS  - Mixing three types of trails, three GIS standards (Historic/Scenic/Local Trails)??Local trail version check box for NHT vs NST
+Previous Meeting NOTES:  
+FTDS  - Mixing three types of trails, three GIS standards (Historic/Scenic/Local Trails)??Local trail version check box for NHT vs NST  
 Need Lookup table for the names of the National Trails (Historic version/Scenic version)   
