@@ -1,3 +1,4 @@
+##Meeting Minutes for National GIS Trails Data Schema Working Group##
 
  Phone number: 877-346-9853 passcode: 3128645  
  Screen Share Meeting Info: http://www.mymeetings.com/nc/join.php?sigKey=mymeetings&i=279022861&p=&t=c  
