@@ -1,1 +1,1 @@
-# Working Groups forFGDC
+# Working Groups for FGDC
