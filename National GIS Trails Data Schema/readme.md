@@ -149,7 +149,7 @@ See brainstorming for future of this standard at bottom of the Purpose document
 Timeline  
 
 
-**Wednesday, December 18, 2019, 2-3:30pm MT ** 
+**Wednesday, December 18, 2019, 2-3:30pm MT**   
 Present: Kerry Shakarjian (NPS), Elizabeth (USGS), Angie (NPS), Taylor(USFS), Candace(USFS), Leslie Haig(DOT), Robert (USFS)    
 Absent: Derald  
 
@@ -207,10 +207,10 @@ Rules for editing: feel free to complete small changes or add additional paragra
 Kerry - send out email with bullet list of items needed for review, include Review Comment Spreadsheet - DONE  
 
 
-**Wednesday, September 25, 2019, 2-3:30pm MT**  
+**Wednesday, September 25, 2019, 2-3:30pm MT**     
 Present: Kerry Shakarjian (IMR NPS GIS), Angie Southwould (AKR NPS GIS)  
 Absent: R2 FS (Victoria, Robert, Taylor); Elizabeth McCartney, Candace Bogart, Derald Dudley  
-***Added all official FTDS docs to Reference folder - please glance over these to get an idea of how/why this standard was created and other useful information****  
+***Added all official FTDS docs to Reference folder - please glance over these to get an idea of how/why this standard was created and other useful information***  
 ****Group check-in - how make the meeting more beneficial/useful for the group? – meeting reminders with link to agenda/meeting minutes enough?, date/time still work for everyone?****  
 Meeting note takers  
 Created a very draft timeline - follows NPS Standards Development Process  
